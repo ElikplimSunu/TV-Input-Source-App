@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimulateTVRemote</string>
+    <string name="button_content_description">Show HDMI on tv view</string>
+    <string name="button_text">Show HDMI</string>
+</resources>

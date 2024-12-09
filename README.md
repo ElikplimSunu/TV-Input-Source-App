@@ -31,7 +31,7 @@ A sleek, Material 3-compliant application designed for Android TV and Amazon Fir
 
 ## **Screenshots**
 
-![App Demo GIF](path/to/image "Optional Title")
+![App Demo GIF](screenshots/HardwareInputApp.gif "App Demo GIF")
 
 ---
 

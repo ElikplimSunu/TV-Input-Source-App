@@ -44,3 +44,22 @@ A sleek, Material 3-compliant application designed for Android TV and Amazon Fir
 2. Open the project in Android Studio.
 3. Sync Gradle and resolve dependencies.
 4. Build and install the app on a compatible Android TV or Amazon Fire TV device.
+
+---
+
+## Contribution
+Contributions are welcome! Please follow these steps:
+
+Fork the repository.
+Create a new branch (`git checkout -b feature-branch`).
+Make your changes and commit them (`git commit -m 'Add new feature'`).
+Push to the branch (`git push origin feature-branch`).
+Create a pull request.
+
+---
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any inquiries or feedback, please reach out at sunuerico@gmail.com.
